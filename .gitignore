@@ -1,0 +1,15 @@
+# Internal research folder
+internal-research/
+design-example/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
