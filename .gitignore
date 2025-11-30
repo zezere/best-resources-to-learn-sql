@@ -13,3 +13,7 @@ Thumbs.db
 *.swo
 *~
 
+# Internal files
+helper-file.txt
+strategy.txt
+
