@@ -152,7 +152,14 @@ section h3.with-date .updated-tag {
     color: var(--color-dark-gray);
 }
 
-.resource-card .description,
+p {
+    margin-bottom: 0.75rem;
+}
+
+.resource-card p:last-child {
+    margin-bottom: 0;
+}
+
 .links {
     margin-bottom: 0.75rem;
 }
@@ -208,6 +215,24 @@ footer {
 
 footer p {
     margin-bottom: 0.5rem;
+}
+
+.footer-contribute {
+    margin-top: 1.5rem;
+    padding-top: 1.5rem;
+    border-top: 1px solid rgba(20, 20, 20, 0.1);
+}
+
+.footer-link {
+    color: var(--color-gradient-blue);
+    text-decoration: none;
+    transition: color 0.2s ease;
+}
+
+.footer-link:hover,
+.footer-link:focus {
+    color: var(--color-gradient-purple);
+    text-decoration: underline;
 }
 
 @media (min-width: 768px) {
