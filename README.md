@@ -4,7 +4,7 @@ A curated collection of the best SQL learning resources for beginners and advanc
 
 ## 🌐 Live Site
 
-Visit the live site: [https://yourusername.github.io/best-resources-to-learn-sql/](https://yourusername.github.io/best-resources-to-learn-sql/)
+Visit the live site: [https://yourusername.github.io/best-resources-to-learn-sql/](https://zezere.github.io/best-resources-to-learn-sql/)
 
 *(Replace `yourusername` with your GitHub username)*
 
