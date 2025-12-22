@@ -6,8 +6,6 @@ A curated collection of the best SQL learning resources for beginners and advanc
 
 Visit the live site: [https://zezere.github.io/best-resources-to-learn-sql/](https://zezere.github.io/best-resources-to-learn-sql/)
 
-*(Replace `yourusername` with your GitHub username)*
-
 ## 📋 Resources Included
 
 - **Free Online Courses** - Interactive tutorials and video courses
@@ -16,15 +14,6 @@ Visit the live site: [https://zezere.github.io/best-resources-to-learn-sql/](htt
 - **Books** - Recommended SQL books for learning
 - **Official Documentation** - Database-specific SQL references
 - **YouTube Channels** - Video tutorials and courses
-
-## 🚀 Setup for GitHub Pages
-
-1. Push this repository to GitHub
-2. Go to your repository settings
-3. Navigate to "Pages" in the sidebar
-4. Under "Source", select the branch (usually `main` or `master`)
-5. Click "Save"
-6. Your site will be available at `https://yourusername.github.io/best-resources-to-learn-sql/`
 
 ## 📁 Project Structure
 
